@@ -1,0 +1,21 @@
+Kecamatan	Pasangan Calon 1	Pasangan Calon 2
+Ambarawa 	72.96			27.04
+Bancak		60.66			39.34
+Bandungan 	63.29			36.71
+Banyubiru	68.62			31.38
+Bawen 		70.59			29.41
+Bergas		69.26			30.74
+Bringin		60.97			39.03
+Getasan 	78.43			21.57
+Jambu		67.17			32.83
+Kaliwungu	65.66			34.34
+Pabelan 	63.82			36.18
+Pringapus	70.46			29.54
+Sumowono	63.82			36.18
+Suruh		58.89			41.11
+Susukan		60.77			39.23
+Tengaran	62.34			37.66
+Tuntang 	64.54			35.46
+Ungaran Barat	68.14			31.86
+Ungaran Timur	65.95			34.05
+Jumlah Akhir	66.45			33.55

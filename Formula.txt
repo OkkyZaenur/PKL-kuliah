@@ -1,0 +1,11 @@
+Input SPSS
+Y1 : Pasangan Calon 1
+Y2 : Pasangan Calon 2
+X1 : Suara Sah
+X2 : Suara Tidak Sah
+X  : Jumlah Suara Sah dan Tidak Sah
+
+uji Nonparametriks Kendall’s Tau-b
+Analyze->Correlate->Bivariate
+pindahkan semua variable ke kanan kemudian mencentang Kendall’s Tau-b pada
+menu Correlation Coefficients. pilih Two-tailed. dan terakhir klik OK

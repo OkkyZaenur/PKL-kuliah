@@ -1,0 +1,18 @@
+Correlations
+							Cagub 1	Cagub 2	Sah	Tidak Sah	Total
+Kendall's tau_b	Cagub 1		Correlation Coefficient	1.000	.474**	.801**	.469**		.789**
+				Sig. (2-tailed)		.	.005	.000	.005		.000
+				N			19	19	19	19		19
+		Cagub 2		Correlation Coefficient	.474**	1.000	.673**	.575**		.684**
+				Sig. (2-tailed)		.005	.	.000	.001		.000
+				N			19	19	19	19		19
+		Sah		Correlation Coefficient	.801**	.673**	1.000	.551**		.988**
+				Sig. (2-tailed)		.000	.000	.	.001		.000
+				N			19	19	19	19		19
+		Tidak Sah	Correlation Coefficient	.469**	.575**	.551**	1.000		.563**
+				Sig. (2-tailed)		.005	.001	.001	.		.001
+				N			19	19	19	19		19
+		Total		Correlation Coefficient	.789**	.684**	.988**	.563**		1.000
+				Sig. (2-tailed)		.000	.000	.000	.001		.
+				N			19	19	19	19		19
+**. Correlation is significant at the 0.01 level (2-tailed).
